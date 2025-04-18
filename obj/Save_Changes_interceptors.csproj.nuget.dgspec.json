@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\courses\\رواد مصر الرقمية\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors\\Save_Changes_interceptors.csproj": {}
+    "D:\\courses\\رواد مصر الرقمية\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Save_Changes_interceptors.csproj": {}
   },
   "projects": {
-    "D:\\courses\\رواد مصر الرقمية\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors\\Save_Changes_interceptors.csproj": {
+    "D:\\courses\\رواد مصر الرقمية\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Save_Changes_interceptors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\courses\\رواد مصر الرقمية\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors\\Save_Changes_interceptors.csproj",
+        "projectUniqueName": "D:\\courses\\رواد مصر الرقمية\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Save_Changes_interceptors.csproj",
         "projectName": "Save_Changes_interceptors",
-        "projectPath": "D:\\courses\\رواد مصر الرقمية\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors\\Save_Changes_interceptors.csproj",
+        "projectPath": "D:\\courses\\رواد مصر الرقمية\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Save_Changes_interceptors.csproj",
         "packagesPath": "C:\\Users\\mahmouuuuuuuuuuuuuud\\.nuget\\packages\\",
-        "outputPath": "D:\\courses\\رواد مصر الرقمية\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors\\obj\\",
+        "outputPath": "D:\\courses\\رواد مصر الرقمية\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

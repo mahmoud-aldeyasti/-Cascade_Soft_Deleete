@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Save_Changes_interceptors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a17274272eeb04582dd606c099a858c2609471d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Save_Changes_interceptors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Save_Changes_interceptors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
