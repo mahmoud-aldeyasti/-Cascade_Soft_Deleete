@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\interceptors\\save_changes_interceptors - repo\\data\\helper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|solutionrelative:data\\helper\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\interceptors\\save_changes_interceptors - repo\\data\\configuration\\blogentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|solutionrelative:data\\configuration\\blogentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\interceptors\\save_changes_interceptors - repo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\interceptors\\save_changes_interceptors - repo\\data\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|solutionrelative:data\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\interceptors\\save_changes_interceptors - repo\\data\\interceptors\\overridingsavechangeinterceptors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|solutionrelative:data\\interceptors\\overridingsavechangeinterceptors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\interceptors\\save_changes_interceptors - repo\\data\\context\\savechangesinterceptorsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|solutionrelative:data\\context\\savechangesinterceptorsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\interceptors\\save_changes_interceptors - repo\\data\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|solutionrelative:data\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\interceptors\\save_changes_interceptors - repo\\data\\configuration\\postentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|solutionrelative:data\\configuration\\postentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\interceptors\\save_changes_interceptors - repo\\data\\entities\\isoftdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|solutionrelative:data\\entities\\isoftdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|d:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\interceptors\\save_changes_interceptors - repo\\migrations\\20250418043505_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213B947C-C82A-4AFF-8928-A47D33603E5F}|Save_Changes_interceptors.csproj|solutionrelative:migrations\\20250418043505_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 313,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2049749531:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250418043505_Initial Migration.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Migrations\\20250418043505_Initial Migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250418043505_Initial Migration.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Migrations\\20250418043505_Initial Migration.cs",
+              "RelativeToolTip": "Migrations\\20250418043505_Initial Migration.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T04:35:05.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OverridingSaveChangeInterceptors.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Data\\Interceptors\\OverridingSaveChangeInterceptors.cs",
+              "RelativeDocumentMoniker": "Data\\Interceptors\\OverridingSaveChangeInterceptors.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Data\\Interceptors\\OverridingSaveChangeInterceptors.cs",
+              "RelativeToolTip": "Data\\Interceptors\\OverridingSaveChangeInterceptors.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T02:57:04.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBaseHelper.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Data\\Helper\\DataBaseHelper.cs",
+              "RelativeDocumentMoniker": "Data\\Helper\\DataBaseHelper.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Data\\Helper\\DataBaseHelper.cs",
+              "RelativeToolTip": "Data\\Helper\\DataBaseHelper.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAgwH8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:34:10.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaveChangesInterceptorsDbContext.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Data\\Context\\SaveChangesInterceptorsDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Context\\SaveChangesInterceptorsDbContext.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Data\\Context\\SaveChangesInterceptorsDbContext.cs",
+              "RelativeToolTip": "Data\\Context\\SaveChangesInterceptorsDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:22:08.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostEntityTypeConfiguration.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Data\\Configuration\\PostEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Configuration\\PostEntityTypeConfiguration.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Data\\Configuration\\PostEntityTypeConfiguration.cs",
+              "RelativeToolTip": "Data\\Configuration\\PostEntityTypeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:19:37.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISoftDelete.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Data\\Entities\\ISoftDelete.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\ISoftDelete.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Data\\Entities\\ISoftDelete.cs",
+              "RelativeToolTip": "Data\\Entities\\ISoftDelete.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:16:55.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogEntityTypeConfiguration.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Data\\Configuration\\BlogEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Configuration\\BlogEntityTypeConfiguration.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Data\\Configuration\\BlogEntityTypeConfiguration.cs",
+              "RelativeToolTip": "Data\\Configuration\\BlogEntityTypeConfiguration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:12:37.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Data\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Post.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Data\\Entities\\Post.cs",
+              "RelativeToolTip": "Data\\Entities\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:10:18.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Data\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Blog.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Data\\Entities\\Blog.cs",
+              "RelativeToolTip": "Data\\Entities\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:08:11.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\courses\\\u0631\u0648\u0627\u062F \u0645\u0635\u0631 \u0627\u0644\u0631\u0642\u0645\u064A\u0629\\dotnetweb\\after\\Interceptors\\Save_Changes_interceptors - Repo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:03:07.119Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
